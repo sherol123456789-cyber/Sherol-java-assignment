@@ -49,3 +49,4 @@
 25. Given an array of integers and a target, find the indices of the two numbers whose sum equals the target.
 
 26. Given N strings of length M, count the number of anagramic groups.
+27. Create SQL query for creating student table which has roll number, name, age, date of birth, email ID, phone number, and address. Student ID is primary key. Name, email ID, and phone number shouldn't be null. insert any three details.
